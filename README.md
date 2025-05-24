@@ -70,19 +70,4 @@ Este projeto visa estruturar e organizar os dados da empresa para torná-los mai
 - Dificuldade em **localizar informações de clientes**.
 - Migração para novas ferramentas de armazenamento.
 
----
 
-## ⚙️ **Instalação e Configuração**
-_(Adicione aqui instruções para configurar o ambiente, dependências e como executar o projeto.)_
-
----
-
-## 🤝 **Como Contribuir**
-1. Faça um fork do repositório.
-2. Crie uma branch com sua feature: `git checkout -b minha-feature`.
-3. Envie um pull request com as alterações propostas.
-
----
-
-## 📜 **Licença**
-Este projeto está sob a licença [MIT](LICENSE).
