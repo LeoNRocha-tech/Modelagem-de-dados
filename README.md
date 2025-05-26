@@ -70,4 +70,11 @@ Este projeto visa estruturar e organizar os dados da empresa para torná-los mai
 - Dificuldade em **localizar informações de clientes**.
 - Migração para novas ferramentas de armazenamento.
 
+## 🔍 Detalhes da Modelagem
+### Transformações Realizadas
+- Normalização de telefones para evitar repetições.
+- Criação de entidade `Pagamento` vinculada a `Empréstimo`.
+
+
+
 
